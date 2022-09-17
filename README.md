@@ -17,3 +17,9 @@ $ rustup default nightly
 $ rustup component add rust-src
 $ rustup component add llvm-tools-preview
 ```
+
+# Run
+
+```bash
+$ cargo +nightly run
+```
